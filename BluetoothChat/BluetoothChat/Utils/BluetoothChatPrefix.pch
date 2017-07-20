@@ -1,0 +1,16 @@
+//
+//  BluetoothChatPrefix.pch
+//  BluetoothChat
+//
+//  Created by Akshit Bum on 20/07/17.
+//  Copyright © 2017 Akshit Bum. All rights reserved.
+//
+
+#import "Constants.h"
+#ifndef BluetoothChatPrefix_pch
+#define BluetoothChatPrefix_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#endif /* BluetoothChatPrefix_pch */
